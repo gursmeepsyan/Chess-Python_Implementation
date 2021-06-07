@@ -1,3 +1,3 @@
 # Chess-Python_Implementation
 
-![](https://tenor.com/YQvU.gif)
+![](https://media.giphy.com/media/XxMTS8OOwl59C/giphy.gif)
