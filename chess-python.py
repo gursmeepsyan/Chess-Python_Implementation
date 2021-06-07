@@ -1,3 +1,5 @@
+# Coding assignment adapted from UC Berkley
+
 
 import numpy as np
 
